@@ -1,1 +1,37 @@
-[{"id":1,"nombre_cli":"Fernanda Cordova","cedula_cli":"1725542961","fecha_reserv":"2019-02-05 00:00:00","tiempo_hosped":"una semana"},{"id":2,"nombre_cli":"Nicol Pirca","cedula_cli":"1789456122","fecha_reserv":"2019-02-05 00:00:00","tiempo_hosped":"cinco d\u00edas"},{"id":3,"nombre_cli":"Diana Bonilla","cedula_cli":"1789456123","fecha_reserv":"2019-02-07 00:00:00","tiempo_hosped":"tres d\u00edas, dos noches "},{"id":4,"nombre_cli":"Valeria Ochoa","cedula_cli":"17895623","fecha_reserv":"2019-02-07 14:15:03","tiempo_hosped":"cinco d\u00edas y cinco noches "},{"id":7,"nombre_cli":"Gabriel Medina","cedula_cli":"1789456123","fecha_reserv":"2019-02-07 19:33:07","tiempo_hosped":"dos d\u00edas una noche"}]
+[  
+   {  
+      "id":1,
+      "nombre_cli":"Fernanda Cordova",
+      "cedula_cli":"1725542961",
+      "fecha_reserv":"2019-02-05 00:00:00",
+      "tiempo_hosped":"una semana"
+   },
+   {  
+      "id":2,
+      "nombre_cli":"Nicol Pirca",
+      "cedula_cli":"1789456122",
+      "fecha_reserv":"2019-02-05 00:00:00",
+      "tiempo_hosped":"cinco d\u00edas"
+   },
+   {  
+      "id":3,
+      "nombre_cli":"Diana Bonilla",
+      "cedula_cli":"1789456123",
+      "fecha_reserv":"2019-02-07 00:00:00",
+      "tiempo_hosped":"tres d\u00edas, dos noches "
+   },
+   {  
+      "id":4,
+      "nombre_cli":"Valeria Ochoa",
+      "cedula_cli":"17895623",
+      "fecha_reserv":"2019-02-07 14:15:03",
+      "tiempo_hosped":"cinco d\u00edas y cinco noches "
+   },
+   {  
+      "id":7,
+      "nombre_cli":"Gabriel Medina",
+      "cedula_cli":"1789456123",
+      "fecha_reserv":"2019-02-07 19:33:07",
+      "tiempo_hosped":"dos d\u00edas una noche"
+   }
+]
